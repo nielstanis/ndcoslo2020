@@ -1,0 +1,50 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Amersfoort",
+    "Image": "Images/Amersfoort.jpg",
+    "Text": "Remains of settlements in the Amersfoort area from around 1000 BC have been found, but the name Amersfoort, after a ford in the Amer River, today called the Eem, did not appear until the 11th century. The city grew around what is now known as the central square, the Hof, where the Bishops of Utrecht established a court in order to control the “Gelderse Valei” area. It was granted city rights in 1259 by the bishop of Utrecht, Henry van Vianden. A first defensive wall, made out of brick, was finished around 1300. Soon after, the need for enlargement of the city became apparent and around 1380 the construction of a new wall was begun and completed around 1450. The famous Koppelpoort a combined land and water gate, is part of this second wall. The first wall was demolished and houses were built in its place. Today's Muurhuizen (wallhouses) Street is at the exact location of the first wall; the fronts of the houses are built on top of the first city wall's foundations."
+  },
+  {
+    "ID": 2,
+    "Name": "Boston",
+    "Image": "Images/Boston.jpg",
+    "Text": "Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. The city proper covers 48 square miles (124 km2) with an estimated population of 685,094 in 2017, making it also the most populous city in New England. Boston is the seat of Suffolk County as well, although the county government was disbanded on July 1, 1999. The city is the economic and cultural anchor of a substantially larger metropolitan area known as Greater Boston, a metropolitan statistical area (MSA) home to a census-estimated 4.8 million people in 2016 and ranking as the tenth-largest such area in the country. As a combined statistical area (CSA), this wider commuting region is home to some 8.2 million people, making it the sixth-largest in the United States."
+  },
+  {
+    "ID": 3,
+    "Name": "Amsterdam",
+    "Image": "Images/Amsterdam.jpg",
+    "Text": "Amsterdam's name derives from Amstelredamme, indicative of the city's origin around a dam in the river Amstel. Originating as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world during the Dutch Golden Age (17th century), as a result of its innovative developments in trade. During that time, the city was the leading centre for finance and trade. In the 19th and 20th centuries the city expanded, and many new neighbourhoods and suburbs were planned and built. The 17th-century canals of Amsterdam and the 19–20th century Defence Line of Amsterdam are on the UNESCO World Heritage List. Since the annexation of the municipality of Sloten in 1921 by the municipality of Amsterdam, the oldest historic part of the city lies in Sloten, dating to the 9th century."
+  },
+  {
+    "ID": 4,
+    "Name": "London",
+    "Image": "Images/London.jpg",
+    "Text": "'London' is an ancient name, attested already in the first century AD, usually in the Latinised form Londinium; for example, handwritten Roman tablets recovered in the city originating from AD 65/70-80 include the word Londinio (‘in London’). Over the years, the name has attracted many mythicising explanations. The earliest attested appears in Geoffrey of Monmouth's Historia Regum Britanniae, written around 1136. This had it that the name originated from a supposed King Lud, who had allegedly taken over the city and named it Kaerlud. Modern scientific analyses of the name must account for the origins of the different forms found in early sources Latin (usually Londinium), Old English (usually Lunden), and Welsh (usually Llundein), with reference to the known developments over time of sounds in those different languages. It is agreed that the name came into these languages from Common Brythonic; recent work tends to reconstruct the lost Celtic form of the name as *[Londonjon] or something similar. This was adapted into Latin as Londinium and borrowed into Old English, the ancestor-language of English. The toponymy of the Common Brythonic form is much debated. A prominent explanation was Richard Coates's 1998 argument that the name derived from pre-Celtic Old European *(p)lowonida, meaning 'river too wide to ford'. Coates suggested that this was a name given to the part of the River Thames which flows through London; from this, the settlement gained the Celtic form of its name, *Lowonidonjon. However, most work has accepted a Celtic origin for the name, and recent studies have favoured an explanation along the lines of a Celtic derivative of a proto-Indo-European root *lendh- ('sink, cause to sink'), combined with the Celtic suffix *-injo- or *-onjo- (used to form place-names). Peter Schrijver has specifically suggested, on these grounds, that the name originally meant 'place that floods (periodically, tidally)'. Until 1889, the name 'London' applied to the City of London, but since then it has also referred to the County of London and Greater London. ‘London’ is sometimes written informally as ‘LDN’."
+  },
+  {
+    "ID": 5,
+    "Name": "Seattle",
+    "Image": "Images/Seattle.jpg",
+    "Text": "Seattle (/siˈætəl/ (￼listen) see-AT-əl) is a seaport city on the West Coast of the United States. It is the seat of King County, Washington. With an estimated 730,000 residents as of 2018, Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America. According to U.S. Census data released in 2018, the Seattle metropolitan area’s population stands at 3.87 million, and ranks as the 15th largest in the United States. In July 2013, it was the fastest-growing major city in the United States and remained in the Top 5 in May 2015 with an annual growth rate of 2.1%. In July 2016, Seattle was again the fastest-growing major U.S. city, with a 3.1% annual growth rate. Seattle is the northernmost large city in the United States. "
+  },
+  {
+    "ID": 6,
+    "Name": "Prague",
+    "Image": "Images/Prague.jpg",
+    "Text": "Prague (/prɑːɡ/; Czech: Praha [ˈpraɦa] (About this soundlisten), German: Prag, Latin: Praga) is the capital and largest city in the Czech Republic, the 14th largest city in the European Union[9] and the historical capital of Bohemia. Situated on the Vltava river, Prague is home to about 1.3 million people, while its metropolitan area is estimated to have a population of 2.6 million.[4] The city has a temperate oceanic climate, with relatively warm summers and chilly winters. "
+  },
+  {
+    "ID": 7,
+    "Name": "Oslo",
+    "Image": "Images/Oslo.jpg",
+    "Text": "Oslo (/ˈɒzloʊ/ OZ-loh, also US: /ˈɒsloʊ/ OSS-loh,[10][11] locally [ˈʊ̂ʂlʊ] (About this soundlisten), rarely [ˈʊ̂slʊ, ˈʊ̀ʂlʊ]) is the capital and most populous city of Norway. It constitutes both a county and a municipality. During the Viking Age the area was part of Viken, the northernmost Danish province. Oslo was founded as a city at the end of the Viking Age in the year 1040 under the name Ánslo, and established as a kaupstad or trading place in 1048 by Harald Hardrada. The city was elevated to a bishopric in 1070 and a capital under Haakon V of Norway around 1300. Personal unions with Denmark from 1397 to 1523 and again from 1536 to 1814 reduced its influence. After being destroyed by a fire in 1624, during the reign of King Christian IV, a new city was built closer to Akershus Fortress and named Christiania in the king's honour. It was established as a municipality (formannskapsdistrikt) on 1 January 1838. The city functioned as the capital of Norway during the 1814–1905 union between Sweden and Norway. From 1877, the city's name was spelled Kristiania in government usage, a spelling that was adopted by the municipal authorities only in 1897. In 1925 the city, after incorporating the village retaining its former name, was renamed Oslo. In 1948 Oslo merged with Aker, a municipality which surrounded the capital and which was 27 times larger, thus creating the modern, vastly enlarged Oslo municipality."
+  },
+  {
+    "ID": 8,
+    "Name": "Middenmeer",
+    "Image": "Images/Middenmeer.jpg",
+    "Text": "Middenmeer is a town in the Dutch province of North Holland. It is part of the municipality of Hollands Kroon, and lies about 18 km north of Hoorn. Middenmeer was established in 1932 under the name of Sluis III. Nearby the village was a military airfield Middenmeer in WO II used by the Ie Verkenningsgroep of the Royal Netherlands Air Force. Now Middenmeer has an airfield for light and ultra light airplanes, Middenmeer Aerodrome. On July 1, 1941, the Wieringermeer became a municipality and its first mayor was ir. S. Smeding. On April 17, 1945, the dikes of the Wieringermeer polder were blown up by the German occupying forces and the Wieringermeer was inundated. Middenmeer as well as neighboring villages had to be evacuated. On December 11, 1945 the polder was dry again. In Middenmeer started the first Moedermavo (School for mothers) of the Netherlands, a school for women."
+  }
+]
